@@ -18,7 +18,7 @@ namespace AplicativodeConsole
             while (opcao != 0)
             {
                
-                Console.WriteLine("Informe o Usuáriu:");
+                Console.WriteLine("Informe o Usuário:");
                 string login = Console.ReadLine();
                 Console.WriteLine("\n ****************************");
                 Console.WriteLine($"\n ***** Bem-Vindo(A) {login} *****");
